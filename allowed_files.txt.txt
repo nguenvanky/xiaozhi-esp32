@@ -1,0 +1,16 @@
+# File mới
+main/boards/common/music.h
+main/boards/common/esp32_music.cc
+main/boards/common/esp32_music.h
+
+# File chỉnh sửa
+main/mcp_server.cc
+main/boards/common/board.cc
+main/boards/common/board.h
+main/application.cc
+main/application.h
+main/display/display.cc
+main/display/display.h
+main/audio/audio_service.cc
+main/audio/audio_service.h
+main/idf_component.yml
